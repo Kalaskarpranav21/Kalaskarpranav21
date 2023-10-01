@@ -13,7 +13,7 @@
 
 - 📝 My Project 1 [Portfolio Website](https://kalaskarpranav21.github.io/Peronal_Portfolio/)
 
-- 👨‍💻 All of my projects are Showcase on my Portfolio [https://kalaskarpranav21.github.io/Peronal_Portfolio/](https://kalaskarpranav21.github.io/Peronal_Portfolio/)
+- 👨‍💻 All of my projects are Showcase on my Portfolio [Pranav Rajesh Kalaskar](https://kalaskarpranav21.github.io/Peronal_Portfolio/)
 
 - 💬 Ask me about **Html, CSS, JS, java**
 
