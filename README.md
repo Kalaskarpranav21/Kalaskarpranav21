@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **pranavkalaskar.cse@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18GVNBCBPWH34AebFm_XXcKtKp486u1kC/view?usp=drive_link](https://drive.google.com/file/d/18GVNBCBPWH34AebFm_XXcKtKp486u1kC/view?usp=drive_link)
+- 📄 Know about my experiences [From My Resume](https://drive.google.com/file/d/18GVNBCBPWH34AebFm_XXcKtKp486u1kC/view?usp=drive_link)
 
 - ⚡ Fun fact **It's Funny to Code...**
 
